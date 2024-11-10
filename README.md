@@ -1,1 +1,2 @@
-XÓA TẬP P
+XÓA TẬP PACKAGE-LOCK.JSON
+
